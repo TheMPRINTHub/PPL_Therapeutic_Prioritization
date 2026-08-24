@@ -10,4 +10,4 @@ Prior_PRGLAC_Documentation includes pdfs of reports obtained form NICHD website 
 
 - 2020 PRGLAC Report Implementation Plan obtained from https://www.nichd.nih.gov/sites/default/files/inline-files/PRGLAC_Implement_Plan_083120.pdf
 
-- 2024 Report on Implementaiton Progress obtained from https://www.nichd.nih.gov/sites/default/files/inline-files/PRGLAC_Progress_Report.pdf
+- 2024 Report on Implementation Progress obtained from https://www.nichd.nih.gov/sites/default/files/inline-files/PRGLAC_Progress_Report.pdf
